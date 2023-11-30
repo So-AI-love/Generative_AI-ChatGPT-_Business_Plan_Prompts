@@ -1,0 +1,1 @@
+# Generative_AI-ChatGPT-_Business_Plan_Prompts
