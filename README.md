@@ -5,6 +5,7 @@ These Prompt has been made by the www.phind.com site and based if the ( https://
 https://www.phind.com/search?cache=t00zxb00olvtbbskw1n2m43p
 
 ![enter image description here][1]
+
     prompts = [
        "For the Business Overview, provide a detailed description of your business, including its location, legal structure, owners, vision, mission, and history.",
        "For the Market Analysis, provide information about your target market, market size, growth potential, competitors, market trends, and regulatory environment.",
